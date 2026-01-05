@@ -40,7 +40,7 @@ This library was called in [Projz.py](https://github.com/D4rkwat3r/ProjZ)
       <strong>AvastrOficial</strong><br>
       - Mexican <br>
       - Dev Backend and FrontEnd <br>
-      - Owner of <a href="https://appbsz.crearforo.net/h155-indexv2">BDZ</a>, community of developers and hackers
+      - Owner of <a href="https://appbsz.crearforo.net/h155-indexv2">BSZ</a>, community of developers and hackers
     </td>
   </tr>
 </table>
